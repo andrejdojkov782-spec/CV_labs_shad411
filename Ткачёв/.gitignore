@@ -1,0 +1,16 @@
+# датасеты
+CIFAR10/
+GTSRB/
+*.tar.gz
+*.zip
+
+# питон/jupyter мусор
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# системное
+.DS_Store
+Thumbs.db
