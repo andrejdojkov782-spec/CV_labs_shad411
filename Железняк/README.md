@@ -4,3 +4,6 @@ https://colab.research.google.com/drive/1m_HKJPqYfTsT0uPCD57iIXReZIVJtIOp?usp=sh
 
 **Задание №2:**
 https://colab.research.google.com/drive/1PZTlq87WnzSkjA8WIVT7cIwIC6msNVVX?usp=sharing
+
+**Задание №3:**
+https://colab.research.google.com/drive/1ZRMbHiZy0nfuh4ezmNyAWxDi-UxuFQwb?usp=sharing
