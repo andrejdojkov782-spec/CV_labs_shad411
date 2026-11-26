@@ -10,3 +10,8 @@ https://colab.research.google.com/drive/1ZRMbHiZy0nfuh4ezmNyAWxDi-UxuFQwb?usp=sh
 
 **Задание №4:**
 https://colab.research.google.com/drive/1RwC4XcLAQowYoN508GmpDL12Ef6E4jQE?usp=sharing
+
+**Задание №5:**
+https://colab.research.google.com/drive/1FToDuEu-7A4FjlMraA2Mb7BbD-W0_NU6?usp=sharing
+**Ссылка на веса:**
+https://drive.google.com/file/d/17ovEYsWhywV2OlRPhnEPtDQWbyiJboPN/view?usp=sharing
